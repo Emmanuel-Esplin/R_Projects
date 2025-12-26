@@ -105,7 +105,7 @@ bootstrap_samples <- matrix(sample(Inflation_rates, n * nboots, replace = TRUE),
 print(bootstrap_samples[1:5, 1:5])
 
 # Compute mean statistic of bootstrap and asign to bs_mean
-bs_means <- colMeans(bootstrap_matrix)
+bs_means <- colMeans(bootstrap_samples)
 print(bs_means)
 
 # Calculate the difference (v) between (mean_inflation) and (bs_means)
