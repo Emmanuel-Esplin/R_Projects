@@ -1,4 +1,4 @@
-# Load readr librabry 
+# Load necessary librabry 
 library(readr)
 library(dplyr)
 library(ggplot2)
