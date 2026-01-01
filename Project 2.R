@@ -111,3 +111,5 @@ economic_tree <- rpart(Recession ~ Interest_Rate + Unemployment_Rate + Economic_
 
 rpart.plot(economic_tree, type = 3, extra = 104, under = TRUE, fallen.leaves = TRUE, 
            main = "Decision Tree Using Information Gain (Entropy)")
+
+
