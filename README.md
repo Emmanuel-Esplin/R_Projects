@@ -24,4 +24,4 @@ To explore statistical techniques and visualization methods using R.
 2. Open `.R` scripts or RStudio projects.
 
 ## GitHub Profile
-https://github.com/EmmanuelEsplin
+https://github.com/Emmanuel-Esplin/R_Projects
