@@ -54,3 +54,8 @@ rsconnect/
 # Script output (plots written by Rscript runs)
 output/
 Rplots.pdf
+
+# Local secrets: never commit
+.env
+.env.*
+!.env.example
